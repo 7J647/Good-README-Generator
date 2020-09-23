@@ -31,6 +31,13 @@ inquirer
       },
 
 
+      {
+        type: "input",
+        message: "usage",
+        name: "What are the usage requirements?",
+      },
+
+   
 
 
 // // array of questions for user
