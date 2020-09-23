@@ -24,6 +24,13 @@ inquirer
       },
 
 
+      {
+        type: "input",
+        message: "installation",
+        name: "What are the installation instructions?",
+      },
+
+
 
 
 // // array of questions for user
