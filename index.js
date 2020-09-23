@@ -1,14 +1,16 @@
 var inquirer = require("inquirer");
 var fs = require("fs");
 
+//importing from generateMarkdown.js
 var generateMarkdown = require("./generateMarkdown");
 
-
+//generating the command line questions
 inquirer
   .prompt([
     {
       type: "input",
       name: "title",
+      //this below is what appears in the prompt
       message: "What is the title of your project?",
     },
 
@@ -41,8 +43,21 @@ inquirer
       type: "list",
       name: "license",
       message: "Which license do you want to include?",
+      //these are the license choices
       choices: ["MIT", "other", "other"],
     },
+
+    {
+        type: "input",
+        name: "contributing",
+        message: "Who contributed to the development of this project?",
+      },
+      
+      {
+        type: "input",
+        name: "tests",
+        message: "What are the testing instructions for this project?",
+      },
 
     // // array of questions for user
     // const questions = [
@@ -63,8 +78,10 @@ inquirer
   ])
   .then(function (response) {
     console.log(response);
+    //created variable to hold the response data
     const readMeText = generateMarkdown(response);
     console.log(readMeText);
+    //wrote the response data to the README file, used synch to avoid asynchronicity issues
     fs.writeFileSync("./output/README.MD", readMeText);
   });
 
