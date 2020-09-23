@@ -37,6 +37,14 @@ inquirer
         name: "What are the usage requirements?",
       },
 
+      {
+        type: "list",
+        message: "license",
+        name: "Which license do you want to include?",
+        choices:  ["MIT", "other", "other"],
+      },
+
+
    
 
 
