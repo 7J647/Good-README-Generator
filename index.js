@@ -16,6 +16,16 @@ inquirer
       },
 
 
+    {
+        type: "checkbox",
+        message: "contents",
+        name: "Which sections will go in your table of contents?",
+        choices: ["Introduction", "URL", "Screenshots", "License", "Contact"],
+      },
+
+
+
+
 // // array of questions for user
 // const questions = [
 
