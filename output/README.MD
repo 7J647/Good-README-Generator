@@ -9,7 +9,7 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;[Questions](#questions)
     
 ## Description: 
-![License](https://img.shields.io/badge/license-Apache-red) &nbsp;&nbsp;&nbsp;&nbsp;
+![License](https://img.shields.io/badge/license-Apache-green) &nbsp;&nbsp;&nbsp;&nbsp;
 test 
 ## Installation: 
 test 
@@ -23,7 +23,7 @@ test
 ## Tests: 
 test 
 ## Questions: 
-Connect with me at Github: <a href="https://github.com/test">test</a> &nbsp;&nbsp;&nbsp;&nbsp;
+Connect with me at Github: <a href="https://github.com/tes">tes</a> &nbsp;&nbsp;&nbsp;&nbsp;
 Contact me via Email: [test](mailto:test)
  
   
