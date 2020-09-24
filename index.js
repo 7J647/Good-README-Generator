@@ -62,14 +62,14 @@ inquirer
       {
         type: "input",
         name: "github",
-        message: "What is your Github?",
+        message: "What is your Github username/handle?",
     
       },
 
       {
         type: "input",
         name: "email",
-        message: "What is your email?",
+        message: "What is your email address?",
     
       },
         

@@ -1,5 +1,11 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
+
+  let licenseText = "";
+  if (data.license ==="MIT") {
+    licenseText = "The MIT license text goes here";
+  }
+
     return `# ${data.title} 
 ## Table of Contents
 #### &nbsp;&nbsp;&nbsp;&nbsp;[Description](#description)
@@ -17,14 +23,15 @@ ${data.installation}
 ## Usage: 
 ${data.usage} 
 ## License: 
-${data.license} 
+${data.license}:&nbsp;&nbsp;
+${licenseText} 
 ## Contributing:
 ${data.contributing} 
 ## Tests: 
 ${data.tests} 
 ## Questions: 
 Connect with me at Github: <a href="https://github.com/${data.github}">${data.github}</a> &nbsp;&nbsp;&nbsp;&nbsp;
-Contact me via Email: ${data.email} 
+Contact me via Email: [${data.email}](mailto:${data.email})
  
   
   `;

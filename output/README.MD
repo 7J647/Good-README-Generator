@@ -15,14 +15,15 @@ test
 ## Usage: 
 test 
 ## License: 
-MIT 
+MIT:&nbsp;&nbsp;
+The MIT license text goes here 
 ## Contributing:
 test 
 ## Tests: 
 test 
 ## Questions: 
 Connect with me at Github: <a href="https://github.com/test">test</a> &nbsp;&nbsp;&nbsp;&nbsp;
-Contact me via Email: test 
+Contact me via Email: [test](mailto:test)
  
   
   
