@@ -59,6 +59,21 @@ inquirer
         message: "What are the testing instructions for this project?",
       },
 
+      {
+        type: "input",
+        name: "github",
+        message: "What is your Github?",
+    
+      },
+
+      {
+        type: "input",
+        name: "email",
+        message: "What is your email?",
+    
+      },
+        
+        
     // // array of questions for user
     // const questions = [
 

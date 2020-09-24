@@ -23,8 +23,9 @@ ${data.contributing}
 ## Tests: 
 ${data.tests} 
 ## Questions: 
-${data.questions} 
-   
+Follow me at Github: ${data.github} &nbsp;&nbsp;&nbsp;&nbsp;
+Contact me via Email: ${data.email} 
+ 
   
   `;
   }
