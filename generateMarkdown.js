@@ -17,6 +17,7 @@ function generateMarkdown(data) {
 #### &nbsp;&nbsp;&nbsp;&nbsp;[Questions](#questions)
     
 ## Description: 
+![License](https://img.shields.io/badge/license-${data.license}-yellow) &nbsp;&nbsp;&nbsp;&nbsp;
 ${data.description} 
 ## Installation: 
 ${data.installation} 
