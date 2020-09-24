@@ -6,6 +6,18 @@ function generateMarkdown(data) {
     licenseText = "The MIT license text goes here";
   }
 
+  if (data.license ==="Apache") {
+    licenseText = "The Apache license text goes here";
+  }
+
+  if (data.license ==="License3") {
+    licenseText = "The License3 license text goes here";
+  }
+
+  if (data.license ==="License4") {
+    licenseText = "The License4 license text goes here";
+  }
+
     return `# ${data.title} 
 ## Table of Contents
 #### &nbsp;&nbsp;&nbsp;&nbsp;[Description](#description)

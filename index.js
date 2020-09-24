@@ -44,7 +44,7 @@ inquirer
       name: "license",
       message: "Which license do you want to include?",
       //these are the license choices
-      choices: ["MIT", "other", "other"],
+      choices: ["MIT", "Apache", "License3", "License4"],
     },
 
     {
