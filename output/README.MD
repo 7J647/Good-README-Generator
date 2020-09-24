@@ -1,6 +1,6 @@
 # test 
 ## Table of Contents
-#### &nbsp;&nbsp;&nbsp;&nbsp;Description
+#### &nbsp;&nbsp;&nbsp;&nbsp;[Description](#description)
 #### &nbsp;&nbsp;&nbsp;&nbsp;Installation
 #### &nbsp;&nbsp;&nbsp;&nbsp;Usage
 #### &nbsp;&nbsp;&nbsp;&nbsp;License
@@ -21,8 +21,8 @@ test
 ## Tests: 
 test 
 ## Questions: 
-Connect with me at Github: <a href="https://github.com/7J647">7J647</a> &nbsp;&nbsp;&nbsp;&nbsp;
-Contact me via Email: jeffreyedwardflynn@gmail.com 
+Connect with me at Github: <a href="https://github.com/test">test</a> &nbsp;&nbsp;&nbsp;&nbsp;
+Contact me via Email: test 
  
   
   
