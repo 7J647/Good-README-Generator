@@ -17,7 +17,7 @@ A quality README including detailed information about the app is an important el
 
 ## Description
 
-This project helps solve that problem by allowing a user to quickly and conveniently generate a quality README.  A command-line application has been created that dynamically populates a professional README.md from the user's input.  By simply typing "node index.js" into the command line, a series of prompts is generated on the command line with the goal of using the input from each prompt to populate its corresponding section of the README.  A user is asked to input information for Title, Description, Installation, Usage, Contributing, and Tests and these responses then are exported to the appropriate place. 
+This project helps solve that problem by allowing a user to quickly and conveniently generate a quality README.  A command-line application has been created that dynamically populates a professional README from the user's input.  By simply typing "node index.js" into the command line, a series of prompts is generated on the command line with the goal of using the input from each prompt to populate its corresponding section of the README.  A user is asked to input information for Title, Description, Installation, Usage, Contributing, and Tests and these responses then are exported to the appropriate place. 
 
 ## Features
 
