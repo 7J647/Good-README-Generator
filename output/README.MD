@@ -1,4 +1,4 @@
-# testtesttest 
+# A Good Read Me 
 ![License](https://img.shields.io/badge/license-Apache-green)
 ## Table of Contents
 #### &nbsp;&nbsp;&nbsp;&nbsp;[Description](#description)
@@ -10,16 +10,16 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;[Questions](#questions)
     
 ## Description: 
-test 
+a really tough homework assignment 
 ## Installation: 
-test 
+there are not any 
 ## Usage: 
-test 
+no minimum usage 
 ## License: 
 
-    Apache License
-    Version 2.0, January 2004
- http://www.apache.org/licenses/
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
 
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
@@ -220,12 +220,12 @@ See the License for the specific language governing permissions and
 limitations under the License.    
  
 ## Contributing:
-test 
+Josh 
 ## Tests: 
-test 
+none 
 ## Questions: 
-Connect with me at Github: <a href="https://github.com/test">test</a> &nbsp;&nbsp;&nbsp;&nbsp;
-Contact me via Email: [test](mailto:test)
+Connect with me at Github: <a href="https://github.com/7J647">7J647</a> &nbsp;&nbsp;&nbsp;&nbsp;
+Contact me via Email: [jeffreyedwardflynn@gmail.com](mailto:jeffreyedwardflynn@gmail.com)
  
   
   
