@@ -21,7 +21,7 @@ This project helps solve that problem by allowing a user to quickly and convenie
 
 ## Features
 
-The user can also choose a license and have both the license and a badge be included in the README without even entering any text.  A dynamic table of contents is automatically included with internal links that allow a user to go straight to a particular section by clicking on the highlightest text.  By simply entering in a GitHub handle and an email address, dynamic links are generated that allow a user to make contact to report issues or offer suggestions.
+The user can also choose a license and have both the license and a badge be included in the README without even entering any text.  A dynamic table of contents is automatically included with internal links that allow a user to go straight to a particular section by clicking on the highlighted text.  By simply entering in a GitHub handle and an email address, dynamic links are generated that allow a user to make contact to report issues or offer suggestions.
 
 ## Usage including GitHub Repository URL and screenshots
 
