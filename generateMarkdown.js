@@ -265,13 +265,13 @@ DEALINGS IN THE SOFTWARE.
     return `# ${data.title} 
 ![License](https://img.shields.io/badge/license-${data.license}-green)
 ## Table of Contents
-#### &nbsp;&nbsp;&nbsp;&nbsp;[Description](#description)
-#### &nbsp;&nbsp;&nbsp;&nbsp;[Installation](#installation)
-#### &nbsp;&nbsp;&nbsp;&nbsp;[Usage](#usage)
-#### &nbsp;&nbsp;&nbsp;&nbsp;[License](#license)
-#### &nbsp;&nbsp;&nbsp;&nbsp;[Contributing](#contributing)
-#### &nbsp;&nbsp;&nbsp;&nbsp;[Tests](#tests)
-#### &nbsp;&nbsp;&nbsp;&nbsp;[Questions](#questions)
+#### &nbsp;&nbsp;&nbsp;&nbsp;[1)&nbsp;Description](#description)
+#### &nbsp;&nbsp;&nbsp;&nbsp;[2)&nbsp;Installation](#installation)
+#### &nbsp;&nbsp;&nbsp;&nbsp;[3)&nbsp;Usage](#usage)
+#### &nbsp;&nbsp;&nbsp;&nbsp;[4)&nbsp;License](#license)
+#### &nbsp;&nbsp;&nbsp;&nbsp;[5)&nbsp;Contributing](#contributing)
+#### &nbsp;&nbsp;&nbsp;&nbsp;[6)&nbsp;Tests](#tests)
+#### &nbsp;&nbsp;&nbsp;&nbsp;[7)&nbsp;Questions](#questions)
     
 ## Description: 
 ${data.description} 

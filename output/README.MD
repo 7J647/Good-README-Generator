@@ -1,13 +1,13 @@
-# Something to Make Life a lot Easier 
+# Something to make life a lot easier! 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ## Table of Contents
-#### &nbsp;&nbsp;&nbsp;&nbsp;[Description](#description)
-#### &nbsp;&nbsp;&nbsp;&nbsp;[Installation](#installation)
-#### &nbsp;&nbsp;&nbsp;&nbsp;[Usage](#usage)
-#### &nbsp;&nbsp;&nbsp;&nbsp;[License](#license)
-#### &nbsp;&nbsp;&nbsp;&nbsp;[Contributing](#contributing)
-#### &nbsp;&nbsp;&nbsp;&nbsp;[Tests](#tests)
-#### &nbsp;&nbsp;&nbsp;&nbsp;[Questions](#questions)
+#### &nbsp;&nbsp;&nbsp;&nbsp;[1)&nbsp;Description](#description)
+#### &nbsp;&nbsp;&nbsp;&nbsp;[2)&nbsp;Installation](#installation)
+#### &nbsp;&nbsp;&nbsp;&nbsp;[3)&nbsp;Usage](#usage)
+#### &nbsp;&nbsp;&nbsp;&nbsp;[4)&nbsp;License](#license)
+#### &nbsp;&nbsp;&nbsp;&nbsp;[5)&nbsp;Contributing](#contributing)
+#### &nbsp;&nbsp;&nbsp;&nbsp;[6)&nbsp;Tests](#tests)
+#### &nbsp;&nbsp;&nbsp;&nbsp;[7)&nbsp;Questions](#questions)
     
 ## Description: 
 This is a custom-built web application designed to make life easier in many ways. 
